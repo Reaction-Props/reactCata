@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <h1>Start</h1>
-        <Greeting name="World" />
+        <Greeting/>
         <Greeting name="Max" />
     </div>
   )
