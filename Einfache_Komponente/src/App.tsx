@@ -11,8 +11,7 @@ import {Greeting} from "./components/ Greeting.tsx";
 // Verwende Props-Typen zur Definition der Typen der Props.
 // Setze einen Standardwert für den name-prop.
 // Beispiel:
-// tsx
-// Code kopieren
+
 // // Erwartete Ausgabe
 // // <Greeting name="Max" /> sollte "Hallo, Max!" anzeigen
 // // <Greeting /> sollte "Hallo, Welt!" anzeigen
